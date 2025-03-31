@@ -1,0 +1,14 @@
+{
+	"id": "Luttrellium's Fighter Jets",
+	"name": "Fighter Jets",
+	"author": ["Luttrellium"],
+	"description": "Adds some pretty sick Jet themed Jokers.",
+	"prefix": "LJet",
+	"main_file": "FighterJets.lua",
+	"priority": 0,
+	"version": "0.0.2.2",
+	"dependencies": [
+        "Steamodded (>=1.*)",
+		"Lovely (>=0.6)"
+    ]
+}
