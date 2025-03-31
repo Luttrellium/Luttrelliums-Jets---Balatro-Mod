@@ -14,4 +14,7 @@ TO DO:
 Joker Ideas:
 
 - Aircraft Carrier Joker (each jet themed joker gives x1.5 mult or something)
-- F/A 18 E/F Super Hornet Joker
+- F/A 18 E/F Super Hornet Joker (no idea what to do with it yet)
+- F-16 Fighting Falcon
+- A-10 Warthog Ground Attack (Similar to hiker? played cards get upgraded/enhanced/destroyed for some purpose)
+- Valkyrie Bomber (idk... speeeeeeeeeeeeeeddddd)
